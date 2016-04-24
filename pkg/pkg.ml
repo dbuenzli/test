@@ -4,5 +4,5 @@
 open Topkg
 
 let () =
-  Pkg.describe "test" [
-    Pkg.lib ~exts:Exts.module_library "src/test"; ]
+  Pkg.describe "mylib" [
+    Pkg.lib ~exts:Exts.module_library "src/mylib"; ]

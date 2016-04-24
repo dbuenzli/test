@@ -1,10 +1,10 @@
 opam-version: "1.2"
 maintainer: "Daniel Bünzli <daniel.buenzl i@erratique.ch>"
 authors: ["Daniel Bünzli <daniel.buenzl i@erratique.ch>"]
-homepage: "https://www.github.com/dbuenzli/test"
+homepage: "http://dbuenzli.github.io/test"
 doc: "http://dbuenzli.github.io/test/doc"
 license: "ISC"
-dev-repo: "http://erratique.ch/repos/test.git"
+dev-repo: "http://github.com/duenzli/test.git"
 bug-reports: "https://github.com/dbuenzli/test/issues"
 tags: []
 available: [ ocaml-version >= "4.01.0"]

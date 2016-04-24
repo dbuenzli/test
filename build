@@ -11,8 +11,8 @@ action ()
 {
     case $1 in
         default)    action lib-native ;;
-        lib-byte)   $OCAMLBUILD test.cma ;;
-        lib-native) $OCAMLBUILD test.cmxa ;;
+        lib-byte)   $OCAMLBUILD mylib.cma ;;
+        lib-native) $OCAMLBUILD mylib.cmxa ;;
         test|tests) $OCAMLBUILD test/tests.otarget ;;
         doc)        shift; topkg doc --dev $* ;;
         api-doc)    shift; topkg doc $* ;;
