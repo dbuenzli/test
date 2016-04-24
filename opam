@@ -2,7 +2,7 @@ opam-version: "1.2"
 maintainer: "Daniel Bünzli <daniel.buenzl i@erratique.ch>"
 authors: ["Daniel Bünzli <daniel.buenzl i@erratique.ch>"]
 homepage: "http://dbuenzli.github.io/test"
-doc: "http://dbuenzli.github.io/test/doc"
+doc: "http://dbuenzli.github.io/test/"
 license: "ISC"
 dev-repo: "http://github.com/duenzli/test.git"
 bug-reports: "https://github.com/dbuenzli/test/issues"
