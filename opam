@@ -4,7 +4,7 @@ authors: ["Daniel Bünzli <daniel.buenzl i@erratique.ch>"]
 homepage: "http://dbuenzli.github.io/test"
 doc: "http://dbuenzli.github.io/test/"
 license: "ISC"
-dev-repo: "http://github.com/duenzli/test.git"
+dev-repo: "http://github.com/dbuenzli/test.git"
 bug-reports: "https://github.com/dbuenzli/test/issues"
 tags: []
 available: [ ocaml-version >= "4.01.0"]

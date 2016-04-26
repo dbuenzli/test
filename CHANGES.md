@@ -1,4 +1,6 @@
-vX.Y.Z YYYY-MM-DD Location
+v0.0.1 2016-04-25 Yo !
 --------------------------
 
-First release. 
+First release.
+
+That's beautiful release notes.
