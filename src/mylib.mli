@@ -6,6 +6,8 @@
 
 (** Test topkg
 
+    Haaahu
+
     {e %%VERSION%% — {{:%%PKG_HOMEPAGE%% }homepage}} *)
 
 (** {1 Mylib} *)
