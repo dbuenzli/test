@@ -5,4 +5,4 @@ open Topkg
 
 let () =
   Pkg.describe "mylib" [
-    Pkg.lib ~exts:Exts.module_library "src/mylib"; ]
+    Pkg.install_mllib "src/mylib.mllib"; ]
