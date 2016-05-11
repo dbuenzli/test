@@ -5,4 +5,4 @@ open Topkg
 
 let () =
   Pkg.describe "mylib" @@ fun c ->
-  Ok [ Pkg.install_mllib "src/mylib.mllib" ]
+  Ok [ Pkg.mllib "src/mylib.mllib" ]
