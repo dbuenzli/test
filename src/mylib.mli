@@ -6,7 +6,7 @@
 
 (** Test topkg
 
-    Haaah
+    Haaah huuuu.
 
     {e %%VERSION%% — {{:%%PKG_HOMEPAGE%% }homepage}} *)
 
