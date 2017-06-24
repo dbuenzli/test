@@ -11,4 +11,5 @@ let build_support () =
 let () =
   let distrib = Pkg.distrib ~massage:build_support () in
   Pkg.describe "mylib" ~distrib @@ fun c ->
-  Ok [ Pkg.mllib "src/mylib.mllib" ]
+  Ok [ Pkg.mllib "src/mylib.mllib";
+       Pkg.test "test/test"; ]
